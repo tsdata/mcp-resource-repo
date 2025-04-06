@@ -1,0 +1,76 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 편집기/IDE 파일
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings
+.classpath
+
+# 빌드 결과물
+dist/
+build/
+out/
+target/
+
+# 의존성 디렉토리
+node_modules/
+vendor/
+.gradle/
+
+# 로그 파일
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 환경 설정 파일
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 임시 파일
+tmp/
+temp/
+.tmp
+.temp
+
+# 캐시 파일
+.cache/
+.parcel-cache/
+
+# 테스트 커버리지
+coverage/
+
+# 데이터 파일
+repos/
+
+# 기타 생성 파일
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+*.so
+*.dylib
+*.dll
+
+
